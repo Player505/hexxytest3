@@ -722,13 +722,8 @@ hash = "06133dd730b0d7ad7435e05b5c703cea725907820c19c1f4796fbb13e2c0002f"
 metafile = true
 
 [[files]]
-file = "mods/findme-client.pw.toml"
-hash = "fbb30dbc841647f9a806ac09f681dee6d0e75e85d409cbc5909382a5243ddc3f"
-metafile = true
-
-[[files]]
-file = "mods/findme-server.pw.toml"
-hash = "c7a19e1e4a4773f454554e123041a1ac12ebdb258794e1ccfd3faec9bf7d80bc"
+file = "mods/findme.pw.toml"
+hash = "7c7ece4ff536156f6b87b6fac92e639660402b026f19b0323ff55b6dc6c977e0"
 metafile = true
 
 [[files]]
@@ -812,8 +807,8 @@ hash = "b3530b1c637233f5fc712cb7a9c30413a2270dc8cd878dfddd6477753d2acba9"
 metafile = true
 
 [[files]]
-file = "mods/hexical-1.6.0.jar"
-hash = "9260b2601d78497ffc41f6a0f1c749788aab10d51734a88f8abeba0d2438e788"
+file = "mods/hexical-1.5.0.jar"
+hash = "ff7e3272bfc3b0d8f80f30cbd9a597f664cefafabed3fdb665d9c1e5f7924d29"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
@@ -821,12 +816,14 @@ hash = "8f7b75a7bcea9d950024750ebd4e322da93e8e151a78d1d596b0b0b496f9631c"
 metafile = true
 
 [[files]]
-file = "mods/hexvr.pw-client.toml"
+file = "mods/hexvr-client.pw.toml"
 hash = "f6d60e22f7b630256aa7c9ce15d736bd79c22dfe65a1bc6e71ebb09866851d96"
+metafile = true
 
 [[files]]
-file = "mods/hexvr.pw-server.toml"
+file = "mods/hexvr-server.pw.toml"
 hash = "3ed3b32730caff9f85ad72615135d5cbf6c08f22dfdd062743eb3b034fd5e73c"
+metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -1522,23 +1519,13 @@ hash = "e2f270d7554f620dbf1864866771aef8ea5f98718b5cec8c7ec9ca12661f67a6"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-client.pw.toml"
-hash = "abf7e396447da93355ae3c85f03619c56c5578620eba6ec704d49beaf4e93a96"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5604d4cd6a3def70f12a724132b94049b9f280687a5a9570efeec7ffd61fcf87"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-server.pw.toml"
-hash = "53c93c11abf49c0ca88de5602eebd724b922d959f6cb19dff8ae85ee3a06defa"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map-client.pw.toml"
-hash = "a0e16fdb98f67cd689a9c452a83efb7b44fa66ec675c6458f1155faf26df36f1"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map-server.pw.toml"
-hash = "32f31eb4e57afb9e38d66584761c5b649d451932936b643581baa85f03696dbd"
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d157898f2b8c5f18ea53332c9c1dc29dc7ab0bdff51b5d2892317d562cf721d9"
 metafile = true
 
 [[files]]
