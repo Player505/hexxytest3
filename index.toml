@@ -219,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "96bfbce95e3426a9c497e2d036f146e27c772cfa88d7b16632fee33c97a3d7b0"
+hash = "b1fc8ed1e29a8efe73cb140390ad41d386519abbc6db57310f6ed1758fde85fc"
 metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "6267ed1d16b23b8557e1663add73a2a502aea4cf15defde042a4f638566a15b7"
+hash = "0780f5939534a197ee27d4a66d6e0fec4ec13c26cf5c3e9f17fd0c99ba0252cb"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-debug-client.pw.toml"
-hash = "a506f450bad09adf444e70a9df5b0c356d36f77b4b3c04b7417218e1b078a950"
+hash = "2ad669291b3dfc72b2fd19576defcf52512183bcb2b3e40436f018336b0a063a"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "49add4e2373abc8279b760285169ee5f8b6e531a807d3a9f4d6af5d476f96ee2"
+hash = "717d788d5e6b8d3a0fad9a3c5b668ac44d5228a5a1786ad8b2c509b4f21e95db"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "d6663d3a3b8a724d7a4eeaa264b9096ed61885c5b8137bf3f4e06b8600468ca3"
+hash = "0eef4497f503afacbcc6b22576543820ac489f24fd601308d815816545d3996e"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "aa71225d83f5da6c2e03ac9b6f84cd2a47373694f93be28160923b908a4a241e"
+hash = "6bee1047aa69d4fc1e6dc500b8cc4b8608f39aa80bb0f8334d1cdd82a6d86cdd"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll-client.pw.toml"
-hash = "f2feed801c7fdb77a714e49881cd2a6863efdf1d011745bbdf74a7e0d5354d05"
+hash = "5f251f0bf19ebcf8ff756afedc54ead1b2cdaa5fda73b95efbc742c70023f0e8"
 metafile = true
 
 [[files]]
@@ -424,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a17632d4db82a29549a9ae0b7c474317ecefce07292b5c27c40792ce6863bbd8"
+hash = "99728e11c025d891e7a8f1abd1cb945098bb37f143f5c8b83751181d61fbf3c7"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-trim.pw.toml"
-hash = "b8ab8c0ebf30d9c5b85c6187cf133cd34be3ed3e7321444857d0fbc4c98cc8ce"
+hash = "43a6c8fdad72161e22d6794f409249edae080298d83235f4869623797974c147"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless-building-fabric-client.pw.toml"
-hash = "42b7551ab8aabb54fdfa9ec09c859256a34a6f98f18923597b55488e99bfc848"
+hash = "edd55fb23f73938960dfcd74ebdef87e88d3be7eaaedd7dcc1e2c43d29392023"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "4d1bd37aa26d003559347f15ef1b57adf565b05869a514caf5e888eb67ebdc05"
+hash = "f89d8aa9b20e697f40d16abb4e8335910109b9d2363b322d9d0b122aaca6c287"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/findme-client.pw.toml"
-hash = "6976a8b4eef517f4a186dbbd91a4147c33fbd55d54f8c9eb23354c08b590d0a1"
+hash = "fbb30dbc841647f9a806ac09f681dee6d0e75e85d409cbc5909382a5243ddc3f"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/foodeffecttooltips.pw.toml"
-hash = "4a4c709cdb9fcbc8a365b6542c9f0d757187b71667bc914ddc53ec65e132b21f"
+hash = "335d74d48c426003c5dd1b1cce6808349d9dbe06bb1c582f1a1064092f9b2ce5"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexvr.pw-client.toml"
-hash = "bef338f3825e1daf389e009be4a713c4cd21ead9084ecfe0d9e654356c952fa2"
+hash = "f6d60e22f7b630256aa7c9ce15d736bd79c22dfe65a1bc6e71ebb09866851d96"
 
 [[files]]
 file = "mods/hexvr.pw-server.toml"
@@ -697,17 +697,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b000cd6797e0fa6a9d75f4e1d4eff317d8a05f45a0dfdd7e54a3cd1e995440ac"
+hash = "02185e83c3be417c6ce8f5e4b1083c42f8df17e121d5f5fe0351a7211eae5702"
 metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "48fd6a091bfdf5803b3862aa1955388db67efcdb3ac86e61cf44673238dcd469"
+hash = "99201db2aa5b94015f6841b2350244fb6426011ea2f35e41cf62b4854b466bd8"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric-client.pw.toml"
-hash = "953dbaebfcdedc957d9687fb063207ddec0b25413e2b5085915df9f8cc335aae"
+hash = "d1a1d110e2845410f64c8739a9a48e73afcb77aa37c89a687a5f510e52fbc1b6"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-client.pw.toml"
-hash = "1687d418dae3610a1113a65fdee23c9d50355495088489df060e4733776bb7f2"
+hash = "6c8f7ce41b4232defa879b902de942f4b414a30939bcf3bf38a17671dd4750b0"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "163c075b90d45aa79e623f8a604a64563793fa52ea151739a107af65cc9fcf8a"
+hash = "7e6aa6a1626295c11967ca74b4be8d620b52824024e1c23f2642b5952d92f7f1"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "29e4e7a19e6382995cf7717629165841e4591dc550342f76232bdb2245310f6d"
+hash = "0a166d167b34d2fa0f956ef0b16b92c7fe2ead25c0b6ac281dbee9d09380ddab"
 metafile = true
 
 [[files]]
@@ -887,22 +887,22 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f2f11ec270c784bf9f196f3fb31fd62d19b1ba3557eb00faa9163404b8e241fb"
+hash = "ccb7035332978c0f99d64ce9c06040052195f3074f3d9f33bc88a909a6bf97b7"
 metafile = true
 
 [[files]]
 file = "mods/notes.pw.toml"
-hash = "1a8838f5987dd3eceb1d15d87cd5d2bea3cb3089889684d25630316e86d9cd06"
+hash = "b1e5885e0ee4ffc5fd4695585317a47ece3fa95b581df8630a2bcec90c406717"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "61a1b200d209d8fd7fb829f4744c1ff5bfcb1ee206486bcd4e1255a78fa66963"
+hash = "be55413862f29e65de67a23e7390c6955160132605db505ccec26bb4d1c768ff"
 metafile = true
 
 [[files]]
 file = "mods/observable-client.pw.toml"
-hash = "c2d9b3374c68fce1ff623e20da006d3ab0eb8eb6769352940a5e09a3b8cdbac9"
+hash = "6b4503a6e3a98b97d439378e3f2e989ed0b1fe47d9d1cf0d8e0a3886e9f9e009"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "1ed1f9b92844fc58adbe13fcb09036169f8cff3129313578c71253bc9b05a7f5"
+hash = "a3640e2402527d39dc55d69f47f8316285fd82e11dcd640acdf8416eeb86671b"
 metafile = true
 
 [[files]]
@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfectly-packed.pw.toml"
-hash = "99f6ee48c11b4868b94ee4d707ff45ceccf02e29b5a23cc89ef663bc9ffd1180"
+hash = "67e1669f72bc617f08fd44f0fd6e703e968a7f77f009cf41187cef54c7741c6f"
 metafile = true
 
 [[files]]
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "7607feba5df1483e9a70c80061f19afdbe5c93f74266fa822a37569c91ae350e"
+hash = "5577aeb2cf699d61ddcb95d7b8ddb4ce6ce149899346cebf500886aa27413fb8"
 metafile = true
 
 [[files]]
@@ -1107,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark-client.pw.toml"
-hash = "d8ec65b497f974e525eae675d4ba2cdbf00b08d0bbaec7f79f743751ee560cde"
+hash = "2a7fb719782b831d938e1e53de69c8f125d3c3be7c3dcb161f9ce6f52d0d84ff"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "e249e0962a71a3cab0b8bd94f0458f79a848b6dcfccf45b9a487cfa078135b97"
+hash = "55a82ca358c0bac463d3c65372be7717af86263e6e148baff3084239c8a342ac"
 metafile = true
 
 [[files]]
@@ -1297,12 +1297,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-preview.pw.toml"
-hash = "2e9f612f92ed0a44b627246b57c3b66e3d6ad891eab293aab46f1ab0d39f27c1"
+hash = "e2f270d7554f620dbf1864866771aef8ea5f98718b5cec8c7ec9ca12661f67a6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-client.pw.toml"
-hash = "f8ebab4dac4721474059df19a619a4d97b3b2de1dc50a216a269de4191a8f6dd"
+hash = "abf7e396447da93355ae3c85f03619c56c5578620eba6ec704d49beaf4e93a96"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map-client.pw.toml"
-hash = "4511d4393812cfd7568f47136ff83794f72aeb379726244d4d7b570b15ac39a2"
+hash = "a0e16fdb98f67cd689a9c452a83efb7b44fa66ec675c6458f1155faf26df36f1"
 metafile = true
 
 [[files]]
