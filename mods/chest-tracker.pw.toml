@@ -15,3 +15,4 @@ version = "EYwStehg"
 [option]
 optional = true
 default = true
+description = "Client side item storage - remember where you've put things."

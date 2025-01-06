@@ -15,3 +15,4 @@ version = "J2fuM58R"
 [option]
 optional = true
 default = true
+description = "Fast nvidia only rendering engine for sodium. Requires an nvidia gpu"
