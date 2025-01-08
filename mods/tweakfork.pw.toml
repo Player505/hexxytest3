@@ -1,0 +1,11 @@
+name = "tweakfork"
+filename = "tweakfork-fabric-1.20.1-1.2.3.jar"
+
+[download]
+url = "https://github.com/Andrews54757/tweakfork/releases/download/1.2.3.120/tweakfork-fabric-1.20.1-1.2.3.jar"
+hash-format = "sha256"
+hash = "8e13eb691382d85059166faa6f6d7ee231be0d5b052ed3dd08f26ad041d3d6e2"
+
+[option]
+optional = true
+description = "Tweakfork is a fork of Tweakeroo. It is a client-side mod that adds a whole bunch of miscellaneous \"tweaks\" to the game. Some of the more popular tweaks are Hand Restock, Flexible Block Placement and Accurate Block Placement, Fast Left and Right Click, Gamma Override and Free Camera. The default hotkey to open the config menu is X + C."

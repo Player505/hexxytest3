@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "794fb5184371f7a3b079d5daabcf30198f69b5e10413a93038b0384d0e685ba2"
+hash = "cf10a856be30b8cad6a0ae9ad85b971182d9072504c5ca913b533c0067b89b67"
 metafile = true
 
 [[files]]
@@ -379,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "717d788d5e6b8d3a0fad9a3c5b668ac44d5228a5a1786ad8b2c509b4f21e95db"
+metafile = true
+
+[[files]]
+file = "mods/clientcommands.pw.toml"
+hash = "e95d65f8d1effb71aea57e6ebd40915c9ae87e60e560b7242d8a55cc4e201ffb"
 metafile = true
 
 [[files]]
@@ -950,6 +955,11 @@ hash = "0a166d167b34d2fa0f956ef0b16b92c7fe2ead25c0b6ac281dbee9d09380ddab"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "c082330db1e62bb9efaa12171eaa85fb3b60fa5912cc5b3cfde1f4cf0bf992b4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -975,6 +985,11 @@ hash = "b71b057e508ddf48d3d63b96240222947128a48da08303e351041efa7703a1ea"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "ccce4670dcbdf1e9c85c62723b973353ec6c0ba70617c283fa81b1addf4261c9"
 metafile = true
@@ -987,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "33f2abac00867c000983d08c8debd3a82088a2e3f88517508b2ac3c75f5b7b11"
 metafile = true
 
 [[files]]
