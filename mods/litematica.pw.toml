@@ -1,0 +1,17 @@
+name = "Litematica"
+filename = "litematica-fabric-1.20.1-0.15.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/1ZTpW1lr/litematica-fabric-1.20.1-0.15.4.jar"
+hash-format = "sha1"
+hash = "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
+
+[update]
+[update.modrinth]
+mod-id = "bEpr0Arc"
+version = "1ZTpW1lr"
+
+[option]
+optional = true
+description = "Litematica has all the main features (plus a bunch more) of the old Schematica mod, exceptLitematica has all the main features (plus a bunch more) of the old Schematica mod, except for the printer, which is not planned for Litematica itself, but instead is left to extension mods for the printer, which is not planned for Litematica itself, but instead is left to extension mods"

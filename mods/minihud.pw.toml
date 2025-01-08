@@ -1,0 +1,17 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.20.1-0.27.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/s4CUdPPN/minihud-fabric-1.20.1-0.27.1.jar"
+hash-format = "sha1"
+hash = "8347b83dd02718cc1b187e5ea83f371e0ac26ab7"
+
+[update]
+[update.modrinth]
+mod-id = "UMxybHE8"
+version = "s4CUdPPN"
+
+[option]
+optional = true
+description = "MiniHUD is a client-side mod that has various \"mini F3\" info lines that you can choose from. It also contains a number of \"overlay renderers\", such as light level, slime chunks, world spawn chunks, structure bounding boxes, region file boundaries, and various shape renderers such as circles and spheres."
