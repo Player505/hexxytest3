@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "cf10a856be30b8cad6a0ae9ad85b971182d9072504c5ca913b533c0067b89b67"
+hash = "794fb5184371f7a3b079d5daabcf30198f69b5e10413a93038b0384d0e685ba2"
 metafile = true
 
 [[files]]
@@ -816,6 +816,10 @@ file = "mods/hexical-1.5.0.jar"
 hash = "ff7e3272bfc3b0d8f80f30cbd9a597f664cefafabed3fdb665d9c1e5f7924d29"
 
 [[files]]
+file = "mods/hexical-1.6.0.jar"
+hash = "9260b2601d78497ffc41f6a0f1c749788aab10d51734a88f8abeba0d2438e788"
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "8f7b75a7bcea9d950024750ebd4e322da93e8e151a78d1d596b0b0b496f9631c"
 metafile = true
@@ -873,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "99201db2aa5b94015f6841b2350244fb6426011ea2f35e41cf62b4854b466bd8"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "3e9e6543ed5473c06c040fc872d8aab59d14883fa88c3be3bd1f3a15f162780d"
 metafile = true
 
 [[files]]
@@ -1476,6 +1485,11 @@ metafile = true
 [[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "6e5e66c034770775b9d22b2221d9e716614d9976f394201aaadfdd8a67a69d89"
+metafile = true
+
+[[files]]
+file = "mods/tweakfork.pw.toml"
+hash = "b21802ad61e170ed0fa462108ede59cb9d4887d99c7e77946eeeb57234f40ce3"
 metafile = true
 
 [[files]]
