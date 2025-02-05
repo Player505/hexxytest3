@@ -11,3 +11,8 @@ hash = "1bcefe0305fda8f3fb6143d1a2d6efaff10df32f"
 [update.modrinth]
 mod-id = "wGoQDPN5"
 version = "29fldAq6"
+
+[option]
+optional = true
+default = true
+description = "A Minecraft VR mod on a loader of your choice!"
