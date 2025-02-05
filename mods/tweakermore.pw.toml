@@ -1,0 +1,18 @@
+name = "TweakerMore"
+filename = "tweakermore-mc1.20.1-v3.19.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/1osq6HPW/tweakermore-mc1.20.1-v3.19.0.jar"
+hash-format = "sha1"
+hash = "7f08f367c4b4d60b3829c9278e673951bd391c51"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "1osq6HPW"
+
+[option]
+optional = true
+description = "A collection of client-side tweak kits to enhance your Minecraft game experience. Tweak Minecraft and beyond!"
+default = true
